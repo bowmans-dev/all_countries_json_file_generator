@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node country-index.js",
-    "iso": "node iso-index.js"
+    "start": "node countryIndex",
+    "iso": "node isoIndex"
   },
   "author": "toni bowman",
   "license": "ISC",
